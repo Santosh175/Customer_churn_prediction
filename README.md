@@ -30,13 +30,13 @@ The bank is on a mission to boost customer retention for its savings accounts. T
 1. Clone this repository (because sharing is caring).
 2. Install the required dependencies (`pip install pandas numpy matplotlib`).
 3. Run the Jupyter notebook or Python script (cue dramatic music).
-4. Decode the results and make informed decisions (like a data Sherlock Holmes). 🔍🔎
+4. Decode the results and make informed decisions . 🔍🔎
 
 ## Results Snapshot 📸
 
 - Our ensemble model aced the validation set with an accuracy of 
 
-`0.83` %!
+`83` %!
 
 ## Acknowledgments 🙌
 
